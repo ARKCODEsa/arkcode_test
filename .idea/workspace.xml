@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a664be5e-e54b-4ca9-b1d2-64a55ea0779d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/arkcode_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModernSpeedTestApp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.py" afterDir="false" />
-    </list>
+    <list default="true" id="a664be5e-e54b-4ca9-b1d2-64a55ea0779d" name="Changes" comment="TRABAJANDO 06-05-2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,11 +102,33 @@
       <workItem from="1748925233992" duration="1495000" />
       <workItem from="1749003495897" duration="13100000" />
       <workItem from="1749102664852" duration="2746000" />
+      <workItem from="1749107122497" duration="300000" />
     </task>
+    <task id="LOCAL-00001" summary="TRABAJANDO 06-05-2025">
+      <option name="closed" value="true" />
+      <created>1749107178013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749107178013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TRABAJANDO 06-05-2025">
+      <option name="closed" value="true" />
+      <created>1749107416114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749107416114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TRABAJANDO 06-05-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="TRABAJANDO 06-05-2025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/arkcode_test$App.coverage" NAME="App Coverage Results" MODIFIED="1749103247856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
